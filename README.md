@@ -26,4 +26,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or comments, please contact the team at email.
 
 # Acknowledgments
-We would like to thank the Skoltech Machine Learning 2024 course instructors for their guidance and support throughout the project.
+We would like to thank the Skoltech Machine Learning 2024 course instructors for their guidance and support throughout the project and team of Yandex https://github.com/yandex-research/rtdl-num-embeddings/tree/main on the basis of whose work this project was created.
