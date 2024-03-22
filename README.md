@@ -55,7 +55,7 @@ The repository is structured to facilitate easy experimentation and reproducibil
 
 Useful links:
 
-[Repeat the results](https://v1.iconsearch.ru/detailed/19832/3/)
+[Repeat the results](https://github.com/AlexUser97/ML24Project/tree/main/calculations_check)
 
 [Embeddings application in ML](https://github.com/AlexUser97/ML24Project/tree/main/embeddings_ML)
 
