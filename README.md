@@ -57,9 +57,9 @@ Useful links:
 
 [Repeat the results](https://v1.iconsearch.ru/detailed/19832/3/)
 
-[Embeddings application in ML](https://v1.iconsearch.ru/detailed/19832/3/)
+[Embeddings application in ML](https://github.com/AlexUser97/ML24Project/tree/main/embeddings_ML)
 
-[Embeddings application in DL](https://v1.iconsearch.ru/detailed/19832/3/)
+[Embeddings application in DL](https://github.com/AlexUser97/ML24Project/tree/main/embeddings_DL)
 
 # Contributing
 We welcome contributions from the community! If you have suggestions for improvements or find any issues, please feel free to open an issue or submit a pull request.
