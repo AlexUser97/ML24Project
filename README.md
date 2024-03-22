@@ -1,5 +1,5 @@
 # Improvement of Tabular Embeddings - Deep Learning Dorks
-![Report](https://v1.iconsearch.ru/uploads/icons/nuvola2/32x32/bookcase.png) [Official report](https://drive.google.com/file/d/16rpLjNSqpxRVuBicghh-ZYobiakhRrqZ/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;![Presentation](https://v1.iconsearch.ru/uploads/icons/oxygen/32x32/datashow.png) [Presentation](https://docs.google.com/presentation/d/1oWXI6c6Y84bzmsi3mCiXyKpXBR202deo/edit?usp=sharing&ouid=110874271372220681465&rtpof=true&sd=true)
+![Report](https://v1.iconsearch.ru/uploads/icons/nuvola2/32x32/bookcase.png) [Official report](https://drive.google.com/file/d/1tNBnv3zJhqtzA7yuCfyId9dZSKizKM-G/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;![Presentation](https://v1.iconsearch.ru/uploads/icons/oxygen/32x32/datashow.png) [Presentation](https://drive.google.com/file/d/18O7_RXsFNILKd-AkRnrt4p0dYUMD4xSN/view?usp=sharing)
 
 This repository contains the project "Improvement of Tabular Embeddings" for the Machine Learning 2024 course at Skoltech. The project is developed by the Deep Learning Dorks team.
 
